@@ -1,6 +1,6 @@
 # Menofia-Pharmacy
 
-Cossole application that has the full functionality of a real pharmacy managment system . 
+Console application that has the full functionality of a real pharmacy managment system . 
 
 Created for learning purposes .
 
